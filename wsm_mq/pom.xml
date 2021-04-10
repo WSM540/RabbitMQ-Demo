@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
 
-    <!-- rabbitmq依赖！ -->
+    <!-- rabbitmq依赖！ 1-->
     <dependencies>
         <dependency>
             <groupId>com.rabbitmq</groupId>
